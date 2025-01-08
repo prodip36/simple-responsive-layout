@@ -1,0 +1,13 @@
+.p1{
+    background-color: antiquewhite;
+    font-size: 20px;
+}
+.p2{
+    background-color: aquamarine;
+    line-height: 3em;
+    font-size: 1em;
+}
+.p3{
+    background-color: darkgray;
+    font-size: 1rem;
+}

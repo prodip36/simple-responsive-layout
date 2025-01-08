@@ -1,3 +1,17 @@
 .container{
     border: 2px solid salmon;
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+    align-items: center;
+}
+
+.box{
+    border: 2px dotted blue;
+    width: 100px;
+    height: 100px;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+   
 }
